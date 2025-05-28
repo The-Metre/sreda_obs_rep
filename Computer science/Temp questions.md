@@ -1,5 +1,5 @@
 
-- [ ] What is a web server?
+- [ ] What is a [[web server]]?
 
 What is a network?
 
