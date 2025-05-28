@@ -3,7 +3,7 @@
 
 What is a network?
 
-What is the internet?
+What is the [[internet]]?
 
 What is an IP address?
 
